@@ -3,3 +3,8 @@ dist/
 public/uploads/
 public/qr/
 .env
+
+# Backup file chua duoc push (chua .env)
+.env.bak
+.env.bak.*
+.env.bakfix.*
